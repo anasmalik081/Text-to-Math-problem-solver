@@ -113,6 +113,6 @@ All tools are integrated through LangChain’s `initialize_agent()` with **Zero-
 
 ## ✉️ Contact
 
-For questions, feel free to reach out via [LinkedIn](https://linkedin.com/in/anas-malik-081) or open an issue in the repository.
+For questions, feel free to reach out via [LinkedIn](https://linkedin.com/in/anas-malik-01) or open an issue in the repository.
 
 ---
